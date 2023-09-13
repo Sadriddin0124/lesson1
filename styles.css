@@ -16,6 +16,7 @@ main {
     border: 5px solid gray;
     display: flex;
     flex-wrap: wrap;
+    padding: 5px;
 }
 
 main header {
